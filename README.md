@@ -3,9 +3,8 @@
 Lucknow, Uttar Pradesh-226001, India  
 📞 Phone: +91 9452412782, 8318605843  
 ✉️ Email: nabeelali11101999@gmail.com  
-🌐 Portfolio: [My Portfolio](https://my-portfolio-tdyk.onrender.com/)  
+🌐 Portfolio: [My Portfolio](https://my-portfolio-x5ox.onrender.com/)  
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nabeel-ali-66a771215/)  
-🐙 GitHub: [GitHub Profile](https://github.com/nabeelali-ui)
 
 ## About Me
 Dedicated and versatile Software Engineer with 1.5 years of hands-on experience in Front-End Development, Back-End Development, Web Development, and Software Development.
@@ -18,14 +17,9 @@ Mar 2022 - Aug 2023
 - Designed and implemented front-end features using HTML5, CSS3, and JavaScript frameworks such as React.js.
 - Built robust and scalable back-end systems with Node.js and Express.js, leveraging MongoDB for database management.
 
-## Education
-**BBDNITM, LUCKNOW**  
-*B.TECH (INFORMATION TECHNOLOGY)*  
-Graduation Date: Jun 2022
-
 ## Projects
-- **Movie Recommendation App**: A movie recommendation app built using HTML5, CSS3, JavaScript, React.js, and JSX, leveraging the power of the TMDB API.  
-  [Movie Recommendation App](https://movieapp-4v85.onrender.com/)
+- **Book Manager**: This project provides a comprehensive solution for managing books through a user-friendly web interface. It allows users to perform CRUD operations (Create, Read, Update, Delete) on books, as well as switch between table and card view on the home page for better visualization.  
+  [Book Manager](https://book-manager-im56.onrender.com)
   
 - **Trendy Tunes**: TrendyTunes is a music player web application built using HTML5, CSS3, and JavaScript.  
   [Trendy Tunes](https://spotify-qnho.onrender.com/)
@@ -36,10 +30,6 @@ Graduation Date: Jun 2022
 ## Publications
 - *Predicting Life Expectancy of Hepatitis B Patients Using Machine Learning* |IEEE| 2022  
   [IEEE Publication](https://ieeexplore.ieee.org/document/9793025)
-
-## Certifications
-- Full Stack Development - Upgrad
-- Responsive Web Design - Free Code Camp
 
 ## Skills
 - **Front-End**: HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React.js, Redux, JSX  
