@@ -18,7 +18,24 @@ Mar 2022 - Aug 2023
 - Built robust and scalable back-end systems with Node.js and Express.js, leveraging MongoDB for database management.
 
 ## Projects
-- **Book Manager**: This project provides a comprehensive solution for managing books through a user-friendly web interface. It allows users to perform CRUD operations (Create, Read, Update, Delete) on books, as well as switch between table and card view on the home page for better visualization.  
+- **Book Manager**: This project provides a comprehensive solution for managing books through a user-friendly web interface. It allows users to perform CRUD operations (Create, Read, Update, Delete) on books, as well as switch between table and card view on the home page for better visualization.
+  
+- *Tech Stack*
+
+- *Frontend*:
+  - *React.js*: A JavaScript library for building user interfaces.
+  - *Tailwind CSS*: A utility-first CSS framework for quickly building custom designs.
+
+- *Backend*:
+  - *Node.js*: A JavaScript runtime environment for building scalable and efficient server-side applications.
+  - *Express.js*: A web application framework for Node.js, used for creating APIs.
+
+- *Database*:
+  - *MongoDB*: A NoSQL database for storing book information efficiently.
+
+- *Testing*:
+  - *Postman*: A popular API testing tool used to verify the functionality of APIs.
+
   [Book Manager](https://book-manager-im56.onrender.com)
   
 - **Trendy Tunes**: TrendyTunes is a music player web application built using HTML5, CSS3, and JavaScript.  
