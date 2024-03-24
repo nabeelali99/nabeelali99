@@ -49,7 +49,7 @@ Mar 2022 - Aug 2023
   [IEEE Publication](https://ieeexplore.ieee.org/document/9793025)
 
 ## Skills
-- **Front-End**: HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React.js, Redux, JSX  
+- **Front-End**: HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux, JSX  
 - **Back-End**: JavaScript, Node.js, Express.js, Java, C, C++, Python  
 - **Database**: SQL, NoSQL, MongoDB, Mongoose  
 - **Others**: VS Code, Git, GitHub, Linux, Bash Shell, Postman API, RESTful API, AWS, Azure, XML, JSON, YAML, Open API, Swagger API, API Testing, API Documentation, Jest, Cypress, CI/CD   
