@@ -47,6 +47,7 @@ Mar 2022 - Aug 2023
 ## Publications
 - *Predicting Life Expectancy of Hepatitis B Patients Using Machine Learning* |IEEE| 2022  
   [IEEE Publication](https://ieeexplore.ieee.org/document/9793025)
+  Check Out the App Here - [Link](https://hep-app-cgrepsb3gakjgj9n9ujtmr.streamlit.app/)
 
 ## Skills
 - **Front-End**: HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux, JSX  
