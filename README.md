@@ -18,6 +18,19 @@ Mar 2022 - Aug 2023
 - Built robust and scalable back-end systems with Node.js and Express.js, leveraging MongoDB for database management.
 
 ## Projects
+
+- **SpendWise**: SpendWise is a powerful expense tracker application built with React! 💼💸
+  
+- *Tech Stack*
+  
+  🛠️ User Interface Development: React, HTML5, CSS3, JavaScript.
+  🔗 Routing: React Router.
+  🎉 Libraries: @heroicons/react, react-dom, react-router-dom, react-toastify.
+  💾 Data Storage: Utilizing localStorage for storing user expenditure data.
+  🤝 Collaboration: GitHub for collaboration and version control.
+
+  [SpendWise](https://spendwise-u0ro.onrender.com/)
+
 - **Book Manager**: This project provides a comprehensive solution for managing books through a user-friendly web interface. It allows users to perform CRUD operations (Create, Read, Update, Delete) on books, as well as switch between table and card view on the home page for better visualization.
   
 - *Tech Stack*
