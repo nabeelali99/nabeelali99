@@ -59,7 +59,7 @@ Mar 2022 - Aug 2023
 - MongoDB
 - JWT (Json Web Token)
   
-  [Teacher Portal]([https://spotify-qnho.onrender.com/](https://teacherportal-frontend.onrender.com/))
+  [Teacher Portal](https://teacherportal-frontend.onrender.com)
   
 ## Publications
 - *Predicting Life Expectancy of Hepatitis B Patients Using Machine Learning* |IEEE| 2022  
