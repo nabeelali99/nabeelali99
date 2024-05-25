@@ -51,12 +51,16 @@ Mar 2022 - Aug 2023
 
   [Book Manager](https://book-manager-im56.onrender.com)
   
-- **Trendy Tunes**: TrendyTunes is a music player web application built using HTML5, CSS3, and JavaScript.  
-  [Trendy Tunes](https://spotify-qnho.onrender.com/)
+- **Teacher Portal**: Teacher Portal, a comprehensive platform designed to streamline and enhance the educational experience for both teachers and students.
+- *Tech Stack*
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT (Json Web Token)
   
-- **Tic Tac Toe**: A Tic Tac Toe game built using HTML5, CSS3, and JavaScript.  
-  [Tic Tac Toe](https://mytictactoe-qrf1.onrender.com/)
-
+  [Teacher Portal]([https://spotify-qnho.onrender.com/](https://teacherportal-frontend.onrender.com/))
+  
 ## Publications
 - *Predicting Life Expectancy of Hepatitis B Patients Using Machine Learning* |IEEE| 2022  
   [IEEE Publication](https://ieeexplore.ieee.org/document/9793025)
