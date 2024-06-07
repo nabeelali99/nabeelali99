@@ -51,7 +51,7 @@ Mar 2022 - Aug 2023
 
   [Book Manager](https://book-manager-im56.onrender.com)
   
-- **Teacher Portal**: Teacher Portal, a comprehensive platform designed to streamline and enhance the educational experience for both teachers and students.
+- **Bloggerz**: Bloggerz is a blog application built using the MERN stack. Users can register, login, create, read, update, and delete posts. Additionally, users can like and unlike posts.
 - *Tech Stack*
 - React.js
 - Node.js
@@ -59,7 +59,7 @@ Mar 2022 - Aug 2023
 - MongoDB
 - JWT (Json Web Token)
   
-  [Teacher Portal](https://teacherportal-frontend.onrender.com)
+  [Bloggerz](https://bloggerz-blogapp-frontend.onrender.com)
   
 ## Publications
 - *Predicting Life Expectancy of Hepatitis B Patients Using Machine Learning* |IEEE| 2022  
