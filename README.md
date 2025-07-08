@@ -3,13 +3,35 @@
 Lucknow, Uttar Pradesh-226001, India  
 📞 Phone: +91 9452412782, 8318605843  
 ✉️ Email: nabeelali11101999@gmail.com  
-🌐 Portfolio: [My Portfolio](https://my-portfolio-x5ox.onrender.com/)  
+🌐 Portfolio: [My Portfolio](https://portfolio-new-ten-ochre.vercel.app/)  
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nabeel-ali-66a771215/)  
 
 ## About Me
-Dedicated and versatile Software Engineer with 1.5 years of hands-on experience in Front-End Development, Back-End Development, Web Development, and Software Development.
+Dedicated and versatile Software Engineer with 2+ years of hands-on experience in Front-End Development, Back-End Development, Web Development, and Software Development.
 
 ## Work Experience
+
+**MagicEdTech**  
+*Senior Software Engineer*  
+Feb 2025 - present 
+- Led front-end architecture overhaul using React.js, React Router DOM, and Context API, improving load times by 25%.
+- Optimised REST APIs and boosted test coverage to 85%, cutting response latency by 30%.
+- Implemented JWT-based authentication, enhancing platform security and user data protection.
+
+**AgileDock**  
+*Fullstack Developer*  
+Aug 2024 - Dec 2024  
+- Built React.js/TypeScript interfaces with Material UI, increasing user satisfaction by 25%.
+- Designed and integrated RESTful APIs, improving end-to-end load time by 30%.
+- Utilized Context API for global theme and language settings, streamlining state management.
+
+**Freelance Software Developer**  
+*Fullstack Developer*  
+Sep 2023 - Jul 2024  
+- Delivered 5+ MERN applications featuring React Hooks and Context API, accelerating client launch timelines by 40%.
+- Automated CI/CD pipelines to halve deployment cycles and enhance dashboard UX by 30%.
+- Enhanced UI performance using code-splitting and lazy loading, improved performance scores by 35%.
+
 **COFORGE**  
 *Software Engineer*  
 Mar 2022 - Aug 2023  
@@ -18,6 +40,18 @@ Mar 2022 - Aug 2023
 - Built robust and scalable back-end systems with Node.js and Express.js, leveraging MongoDB for database management.
 
 ## Projects
+
+- **Bloggerz**:  A modern full-stack blogging platform! 💼💸
+  
+- *Tech Stack*
+  
+  🛠️ User Interface Development: React, HTML5, CSS3, JavaScript.
+  🔗 Routing: React Router.
+  🎉 Libraries: @heroicons/react, react-dom, react-router-dom, react-toastify.
+  💾 Data Storage: Utilizing localStorage for storing user expenditure data.
+  🤝 Collaboration: GitHub for collaboration and version control.
+
+  [Bloggerz](https://bloggerz-blogapp-frontend.onrender.com/)
 
 - **SpendWise**: SpendWise is a powerful expense tracker application built with React! 💼💸
   
