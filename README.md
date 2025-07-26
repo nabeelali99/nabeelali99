@@ -7,7 +7,7 @@ Lucknow, Uttar Pradesh-226001, India
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nabeel-ali-66a771215/)  
 
 ## About Me
-Dedicated and versatile Software Engineer with 2+ years of hands-on experience in Front-End Development, Back-End Development, Web Development, and Software Development.
+Dedicated and versatile Software Engineer with 3+ years of hands-on experience in Front-End Development, Back-End Development, Web Development, and Software Development.
 
 ## Work Experience
 
@@ -20,7 +20,7 @@ Feb 2025 - present
 
 **AgileDock**  
 *Fullstack Developer*  
-Aug 2024 - Dec 2024  
+Aug 2023 - Dec 2024  
 - Built React.js/TypeScript interfaces with Material UI, increasing user satisfaction by 25%.
 - Designed and integrated RESTful APIs, improving end-to-end load time by 30%.
 - Utilized Context API for global theme and language settings, streamlining state management.
